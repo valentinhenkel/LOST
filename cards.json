@@ -1,0 +1,356 @@
+{
+  "Name": "Minimal 2-Player Card Game",
+  "Version": 1,
+  "Cards": [
+    {
+      "CardID": "card_1",
+      "Front": "front_1_1.png",
+      "Back": "back_plain_3.png",
+      "Name": "front_1_1",
+      "Tags": []
+    },
+    {
+      "CardID": "card_2",
+      "Front": "front_1_2.png",
+      "Back": "back_plain_26.png",
+      "Name": "front_1_2",
+      "Tags": []
+    },
+    {
+      "CardID": "card_3",
+      "Front": "front_1_3.png",
+      "Back": "back_plain_10.png",
+      "Name": "front_1_3",
+      "Tags": []
+    },
+    {
+      "CardID": "card_4",
+      "Front": "front_1_4.png",
+      "Back": "back_plain_15.png",
+      "Name": "front_1_4",
+      "Tags": []
+    },
+    {
+      "CardID": "card_5",
+      "Front": "front_1_5.png",
+      "Back": "back_plain_9.png",
+      "Name": "front_1_5",
+      "Tags": []
+    },
+    {
+      "CardID": "card_6",
+      "Front": "front_2_1.png",
+      "Back": "back_plain_11.png",
+      "Name": "front_2_1",
+      "Tags": []
+    },
+    {
+      "CardID": "card_7",
+      "Front": "front_2_2.png",
+      "Back": "back_red_circle_3.png",
+      "Name": "front_2_2",
+      "Tags": []
+    },
+    {
+      "CardID": "card_8",
+      "Front": "front_2_3.png",
+      "Back": "back_plain_32.png",
+      "Name": "front_2_3",
+      "Tags": []
+    },
+    {
+      "CardID": "card_9",
+      "Front": "front_2_4.png",
+      "Back": "back_plain_1.png",
+      "Name": "front_2_4",
+      "Tags": []
+    },
+    {
+      "CardID": "card_10",
+      "Front": "front_2_5.png",
+      "Back": "back_plain_30.png",
+      "Name": "front_2_5",
+      "Tags": []
+    },
+    {
+      "CardID": "card_11",
+      "Front": "front_3_1.png",
+      "Back": "back_plain_5.png",
+      "Name": "front_3_1",
+      "Tags": []
+    },
+    {
+      "CardID": "card_12",
+      "Front": "front_3_2.png",
+      "Back": "back_plain_18.png",
+      "Name": "front_3_2",
+      "Tags": []
+    },
+    {
+      "CardID": "card_13",
+      "Front": "front_3_3.png",
+      "Back": "back_yellow_rectangle_1.png",
+      "Name": "front_3_3",
+      "Tags": []
+    },
+    {
+      "CardID": "card_14",
+      "Front": "front_3_4.png",
+      "Back": "back_plain_34.png",
+      "Name": "front_3_4",
+      "Tags": []
+    },
+    {
+      "CardID": "card_15",
+      "Front": "front_3_5.png",
+      "Back": "back_plain_24.png",
+      "Name": "front_3_5",
+      "Tags": []
+    },
+    {
+      "CardID": "card_16",
+      "Front": "front_4_1.png",
+      "Back": "back_yellow_rectangle_3.png",
+      "Name": "front_4_1",
+      "Tags": []
+    },
+    {
+      "CardID": "card_17",
+      "Front": "front_4_2.png",
+      "Back": "back_plain_19.png",
+      "Name": "front_4_2",
+      "Tags": []
+    },
+    {
+      "CardID": "card_18",
+      "Front": "front_4_3.png",
+      "Back": "back_yellow_rectangle_4.png",
+      "Name": "front_4_3",
+      "Tags": []
+    },
+    {
+      "CardID": "card_19",
+      "Front": "front_4_4.png",
+      "Back": "back_plain_31.png",
+      "Name": "front_4_4",
+      "Tags": []
+    },
+    {
+      "CardID": "card_20",
+      "Front": "front_4_5.png",
+      "Back": "back_blue_square_2.png",
+      "Name": "front_4_5",
+      "Tags": []
+    },
+    {
+      "CardID": "card_21",
+      "Front": "front_5_1.png",
+      "Back": "back_plain_2.png",
+      "Name": "front_5_1",
+      "Tags": []
+    },
+    {
+      "CardID": "card_22",
+      "Front": "front_5_2.png",
+      "Back": "back_green_square_2.png",
+      "Name": "front_5_2",
+      "Tags": []
+    },
+    {
+      "CardID": "card_23",
+      "Front": "front_5_3.png",
+      "Back": "back_plain_6.png",
+      "Name": "front_5_3",
+      "Tags": []
+    },
+    {
+      "CardID": "card_24",
+      "Front": "front_5_4.png",
+      "Back": "back_plain_27.png",
+      "Name": "front_5_4",
+      "Tags": []
+    },
+    {
+      "CardID": "card_25",
+      "Front": "front_5_5.png",
+      "Back": "back_plain_29.png",
+      "Name": "front_5_5",
+      "Tags": []
+    },
+    {
+      "CardID": "card_26",
+      "Front": "front_6_1.png",
+      "Back": "back_plain_14.png",
+      "Name": "front_6_1",
+      "Tags": []
+    },
+    {
+      "CardID": "card_27",
+      "Front": "front_6_2.png",
+      "Back": "back_plain_12.png",
+      "Name": "front_6_2",
+      "Tags": []
+    },
+    {
+      "CardID": "card_28",
+      "Front": "front_6_3.png",
+      "Back": "back_plain_17.png",
+      "Name": "front_6_3",
+      "Tags": []
+    },
+    {
+      "CardID": "card_29",
+      "Front": "front_6_4.png",
+      "Back": "back_blue_square_1.png",
+      "Name": "front_6_4",
+      "Tags": []
+    },
+    {
+      "CardID": "card_30",
+      "Front": "front_6_5.png",
+      "Back": "back_green_square_4.png",
+      "Name": "front_6_5",
+      "Tags": []
+    },
+    {
+      "CardID": "card_31",
+      "Front": "front_7_1.png",
+      "Back": "back_plain_23.png",
+      "Name": "front_7_1",
+      "Tags": []
+    },
+    {
+      "CardID": "card_32",
+      "Front": "front_7_2.png",
+      "Back": "back_blue_square_4.png",
+      "Name": "front_7_2",
+      "Tags": []
+    },
+    {
+      "CardID": "card_33",
+      "Front": "front_7_3.png",
+      "Back": "back_plain_16.png",
+      "Name": "front_7_3",
+      "Tags": []
+    },
+    {
+      "CardID": "card_34",
+      "Front": "front_7_4.png",
+      "Back": "back_red_circle_2.png",
+      "Name": "front_7_4",
+      "Tags": []
+    },
+    {
+      "CardID": "card_35",
+      "Front": "front_7_5.png",
+      "Back": "back_green_square_3.png",
+      "Name": "front_7_5",
+      "Tags": []
+    },
+    {
+      "CardID": "card_36",
+      "Front": "front_8_1.png",
+      "Back": "back_red_circle_1.png",
+      "Name": "front_8_1",
+      "Tags": []
+    },
+    {
+      "CardID": "card_37",
+      "Front": "front_8_2.png",
+      "Back": "back_plain_22.png",
+      "Name": "front_8_2",
+      "Tags": []
+    },
+    {
+      "CardID": "card_38",
+      "Front": "front_8_3.png",
+      "Back": "back_plain_7.png",
+      "Name": "front_8_3",
+      "Tags": []
+    },
+    {
+      "CardID": "card_39",
+      "Front": "front_8_4.png",
+      "Back": "back_plain_33.png",
+      "Name": "front_8_4",
+      "Tags": []
+    },
+    {
+      "CardID": "card_40",
+      "Front": "front_8_5.png",
+      "Back": "back_yellow_rectangle_2.png",
+      "Name": "front_8_5",
+      "Tags": []
+    },
+    {
+      "CardID": "card_41",
+      "Front": "front_9_1.png",
+      "Back": "back_plain_28.png",
+      "Name": "front_9_1",
+      "Tags": []
+    },
+    {
+      "CardID": "card_42",
+      "Front": "front_9_2.png",
+      "Back": "back_plain_8.png",
+      "Name": "front_9_2",
+      "Tags": []
+    },
+    {
+      "CardID": "card_43",
+      "Front": "front_9_3.png",
+      "Back": "back_green_square_1.png",
+      "Name": "front_9_3",
+      "Tags": []
+    },
+    {
+      "CardID": "card_44",
+      "Front": "front_9_4.png",
+      "Back": "back_plain_13.png",
+      "Name": "front_9_4",
+      "Tags": []
+    },
+    {
+      "CardID": "card_45",
+      "Front": "front_9_5.png",
+      "Back": "back_blue_square_3.png",
+      "Name": "front_9_5",
+      "Tags": []
+    },
+    {
+      "CardID": "card_46",
+      "Front": "front_10_1.png",
+      "Back": "back_plain_4.png",
+      "Name": "front_10_1",
+      "Tags": []
+    },
+    {
+      "CardID": "card_47",
+      "Front": "front_10_2.png",
+      "Back": "back_plain_21.png",
+      "Name": "front_10_2",
+      "Tags": []
+    },
+    {
+      "CardID": "card_48",
+      "Front": "front_10_3.png",
+      "Back": "back_red_circle_4.png",
+      "Name": "front_10_3",
+      "Tags": []
+    },
+    {
+      "CardID": "card_49",
+      "Front": "front_10_4.png",
+      "Back": "back_plain_25.png",
+      "Name": "front_10_4",
+      "Tags": []
+    },
+    {
+      "CardID": "card_50",
+      "Front": "front_10_5.png",
+      "Back": "back_plain_20.png",
+      "Name": "front_10_5",
+      "Tags": []
+    }
+  ]
+}
